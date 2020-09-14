@@ -7,5 +7,6 @@ int main(int argc, char* argv[]) {
     	std::cout << argv[1] << std::endl;
 	}
     std::cout<<"Matt's sample cout"<<std::endl;
+    std::cout<<"In class change"<<std::endl;
 }
     
