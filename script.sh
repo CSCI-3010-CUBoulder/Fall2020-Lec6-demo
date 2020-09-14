@@ -1,12 +1,12 @@
 #!/bin/sh
 
-git add .
+git add --all
 
 git status
 
 message="file committed"
 echo "Enter commit message"
-read $message
+read message
 
 git commit -m "x$message"
 git status
