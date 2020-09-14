@@ -17,4 +17,4 @@ echo "Enter branch"
 read branch
 git push origin $branch
 
-echo "!!!!!changes pushed to remote successfully!!!!!!"
+#echo "!!!!!changes pushed to remote successfully!!!!!!"
