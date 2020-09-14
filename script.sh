@@ -14,6 +14,8 @@ git status
 branch = "master"
 echo "Enter branch"
 read $branch
+git pull origin $branch
+
 git push origin $branch
 
 echo "!!!!!changes pushed to remote successfully!!!!!!"
