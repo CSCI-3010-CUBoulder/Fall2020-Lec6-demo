@@ -2,4 +2,3 @@
 
 # Fall2020-Lec6-demo
 
-It is now Lecture 8!
